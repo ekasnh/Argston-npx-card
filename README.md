@@ -1,6 +1,6 @@
 ## Getting Started
 
-To use Inevitable CLI , simply run the following command in your terminal:
+To use Argston CLI , simply run the following command in your terminal:
 ```zsh
 npx argston
 ```
