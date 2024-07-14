@@ -17,4 +17,4 @@ Additionally, you can use either pnpm or yarn as alternatives to npm. Make sure 
 
 ## Usage
 
-Once you've installed the necessary prerequisites, simply run the `npx ekansh` command in your terminal. This will display your business card with your contact information and other details.
+Once you've installed the necessary prerequisites, simply run the `npx argston` command in your terminal. This will display your business card with your contact information and other details.
